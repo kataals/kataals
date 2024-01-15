@@ -84,3 +84,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kataals.kataals&left_color=peru&left_text=Visits"  />
+</div>
+
+###
