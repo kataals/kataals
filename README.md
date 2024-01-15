@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="linkedin.com/in/ikbaah" target="_blank">
+  <a href="linkedin.com/in/ikbaah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"  />
   </a>
   <a href="mailto:idbaah1@gmail.com" target="_blank">
