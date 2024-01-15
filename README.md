@@ -58,7 +58,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" alt="rstudio logo"  />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" alt="jupyter logo"  />
-
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A.svg?style=for-the-badge&logo=Microsoft-Access&logoColor=white" />
 </div>
 
 ###
