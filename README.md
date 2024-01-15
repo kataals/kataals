@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🔭 I am a technology enthusiast with a liking towards Data Science, AI & Analysis.</p>
+<p align="left"> I am a technology enthusiast with a liking towards Data Science, AI & Analysis.</p>
 
 ###
 
